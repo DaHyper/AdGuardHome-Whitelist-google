@@ -1,3 +1,12 @@
+@@|*.doubleclick.net^$important
+@@|*ad.doubleclick.net^$important
+@@|*doubleclick.net^$important
+@@|*googleadservices.com^$important
+@@|*googleadservices-cn.com^$important
+@@|*dartsearch.net^$important
+@@|*clickserve.dartsearch.net^$important
+@@|*ads.google.com^$important
+@@|*adservice.google.com^$important
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*.*.livefilestore.com^$important
 @@|*.*.pool.ntp.org^$important
